@@ -1,15 +1,12 @@
 # baiduwp
 PanDownload Web, built with CloudFlare Workers
-# Demo
-No longer available due to abuse.
-# Usage
-```
-headers:{
-    'user-agent': 'Some UA',
-    'Cookie': 'BDUSS=INPUT YOUR BDUSS HERE; STOKEN=INPUT YOUR STOKEN HERE'
-  }
-```
-# Thanks
+完善aria2推送功能
+自动填写提取码
+修复文件名、文件大小显示
+
+# 使用方法
+在worker设置页面添加环境变量：BDUSS,STOKEN,SB（svip的BDUSS）
+# 感谢
 
 [PanDownload](https://pandownload.com): static pages
 
