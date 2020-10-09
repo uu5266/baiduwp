@@ -1,8 +1,8 @@
 # baiduwp
   PanDownload Web, built with CloudFlare Workers
-  完善aria2推送功能
-  自动填写提取码
-  修复文件名、文件大小显示
+  完善aria2推送功能  
+  自动填写提取码  
+  修复文件名、文件大小显示  
 
 # 使用方法
   在worker设置页面添加环境变量：BDUSS,STOKEN,SB（svip的BDUSS）
