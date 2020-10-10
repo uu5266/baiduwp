@@ -41,7 +41,7 @@ const error = `
 <nav class="navbar navbar-expand-sm bg-dark navbar-dark">
 <div class="container">
 <a class="navbar-brand" href="/">
-<img src="http://hk.282934.xyz:90/logo.png" class="img-fluid rounded logo-img mr-2" alt="LOGO">S&D
+<img src="https://pandownload.com/logo.png" class="img-fluid rounded logo-img mr-2" alt="LOGO">S&D
 </a>
 <button class="navbar-toggler border-0" type="button" data-toggle="collapse" data-target="#collpase-bar">
 <span class="navbar-toggler-icon"></span>
@@ -149,7 +149,7 @@ const filebody = `<!DOCTYPE html>
 <nav class="navbar navbar-expand-sm bg-dark navbar-dark">
 <div class="container">
 <a class="navbar-brand" href="/">
-<img src="http://hk.282934.xyz:90/logo.png" class="img-fluid rounded logo-img mr-2" alt="LOGO">S&D
+<img src="https://pandownload.com/logo.png" class="img-fluid rounded logo-img mr-2" alt="LOGO">S&D
 </a>
 <button class="navbar-toggler border-0" type="button" data-toggle="collapse" data-target="#collpase-bar">
 <span class="navbar-toggler-icon"></span>
@@ -422,7 +422,7 @@ function validateForm() {
 <nav class="navbar navbar-expand-sm bg-dark navbar-dark">
 <div class="container">
 <a class="navbar-brand" href="/">
-<img src="http://hk.282934.xyz:90/logo.png" class="img-fluid rounded logo-img mr-2" alt="LOGO">S&D
+<img src="https://pandownload.com/logo.png" class="img-fluid rounded logo-img mr-2" alt="LOGO">S&D
 </a>
 <button class="navbar-toggler border-0" type="button" data-toggle="collapse" data-target="#collpase-bar">
 <span class="navbar-toggler-icon"></span>
@@ -501,7 +501,7 @@ const helpbody = `<!DOCTYPE html>
 <nav class="navbar navbar-expand-sm bg-dark navbar-dark">
 <div class="container">
 <a class="navbar-brand" href="/">
-<img src="http://hk.282934.xyz:90/logo.png" class="img-fluid rounded logo-img mr-2" alt="LOGO">S&D
+<img src="https://pandownload.com/logo.png" class="img-fluid rounded logo-img mr-2" alt="LOGO">S&D
 </a>
 <button class="navbar-toggler border-0" type="button" data-toggle="collapse" data-target="#collpase-bar">
 <span class="navbar-toggler-icon"></span>
@@ -568,7 +568,7 @@ const dbody = `<!DOCTYPE html>
 <nav class="navbar navbar-expand-sm bg-dark navbar-dark">
 <div class="container">
 <a class="navbar-brand" href="/">
-<img src="http://hk.282934.xyz:90/logo.png" class="img-fluid rounded logo-img mr-2" alt="LOGO">S&D
+<img src="https://pandownload.com/logo.png" class="img-fluid rounded logo-img mr-2" alt="LOGO">S&D
 </a>
 <button class="navbar-toggler border-0" type="button" data-toggle="collapse" data-target="#collpase-bar">
 <span class="navbar-toggler-icon"></span>
